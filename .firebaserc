@@ -1,5 +1,21 @@
 {
   "projects": {
     "default": "crader-co"
-  }
+  },
+  "targets": {
+    "crader-co": {
+      "hosting": {
+        "steven": [
+          "crader-co-steven"
+        ],
+        "charlotte": [
+          "crader-co-charlotte"
+        ],
+        "crader": [
+          "crader-co"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

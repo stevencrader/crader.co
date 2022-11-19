@@ -1,0 +1,132 @@
+:root {
+    --accent-color: rgba(0, 0, 0, 1);
+    --accent-color-tp: rgba(0, 74, 159, 0.25);
+}
+
+html {
+    background-color: var(--accent-color);
+    background-image: url(../images/background.png);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.5);
+    width: 70%;
+    max-width: 1000px;
+    margin: 20px auto 20px auto;
+    flex-grow: 1;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+a, a:visited, a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#content {
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+header h1 {
+    font-family: 'Source Sans Pro', serif;
+    font-size: 4em;
+    margin: 0 0 10px 0;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    border: 5px solid var(--accent-color);
+    background: var(--accent-color-tp);
+    padding: 10px;
+    width: 40%;
+    border-radius: 10px;
+}
+
+section:hover {
+    background-color: var(--accent-color);
+    border: 5px solid black;
+}
+
+section a {
+    display: block;
+}
+
+section * {
+    color: black;
+}
+
+section .transparent {
+    fill: var(--accent-color-tp);
+}
+
+section:hover * {
+    color: white;
+}
+
+section:hover svg {
+    fill: white;
+}
+
+section svg {
+    width: 50px;
+    height: auto;
+}
+
+section h2 {
+    font-family: 'Source Sans Pro', serif;
+    font-size: 2em;
+    margin: 0 0 10px 0;
+}
+
+section p {
+    margin: 0;
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 700px) {
+    html {
+        padding: 10px 20px;
+    }
+
+    body {
+        width: 80%;
+    }
+
+    header h1 {
+        font-size: 3em;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    section {
+        width: 80%;
+    }
+
+    section h2 {
+        font-size: 2em;
+    }
+}
