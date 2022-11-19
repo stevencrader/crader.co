@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/stevencrader
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://steven.crader.co
+  * I am stevencrader (https://keybase.io/stevencrader) on keybase.
+  * I have a public key with fingerprint 6D09 CFEB 050C F4B4 6162  C6C1 1425 CF21 DCFB 0445
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010154e2b2faf159da377e005511549a3cbf825e4eb34b55da7ffd301ca54d27149f0a",
+      "fingerprint": "6d09cfeb050cf4b46162c6c11425cf21dcfb0445",
+      "host": "keybase.io",
+      "key_id": "1425cf21dcfb0445",
+      "kid": "010154e2b2faf159da377e005511549a3cbf825e4eb34b55da7ffd301ca54d27149f0a",
+      "uid": "055d55bc81e9c33db3905f20a25c5719",
+      "username": "stevencrader"
+    },
+    "merkle_root": {
+      "ctime": 1609652237,
+      "hash_meta": "b52dfbafd7e9914189ca05cf8e236a43ccde1fcf700943c2f58836d351377212",
+      "seqno": 18570652
+    },
+    "revoke": {
+      "sig_ids": [
+        "d50709d091350e80470398d51adc64a9fa710a14236799c9bf252021f48892d50f"
+      ]
+    },
+    "service": {
+      "hostname": "steven.crader.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1609652243,
+  "expire_in": 157680000,
+  "prev": "200aeddaf161404544980cb369341ff526c593fc50b754c60254240294415833",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK3AnicrVNbaB1FGD7RJOoBRWqrYNWY1RfTEOb27+4cbHyoFUTE0ChYj+V0rsma
+5Oxxd3M0LSEmVCVVSr1EvIJaWwiitkIJxgu1GpUai6X6EFMrBbUQRCrF0iC1zqaK
+KD46L8vMfv//Xf6Zjy8+v1BsuOZs59T4iU1rGz7fPzJYqPxy92WbPRnrIa+02esz
+Sx/Tr02aVfoi7ZU8hBEGZogkVlgMXAsaBAYhAOzOuaBK2pCAYUZSJgG0CKzVFGEl
+gGkSYMYtEl67Z6Nqj0lqSVTNXFtfI66skQiQskwyH/tE+QpjRkBZgrWyEjEGrrA3
+TvMKJ06K1HREsTtzm8qSvP/A/8+6B8+1cwgAqUJsuKJUS8oRWIKEo4cA8xyYmqQq
+BoxDp5mpm6pKhDaJN9zuDZikr99UkjjO8oBVFuUw7CPuAyE0cCZF2lsZMJlw1RKI
+tlJYHRjOMcMhVwI5l6Eh1BeMKqUNtsoGCHG3IxbCkPqaAnYWCSZOS2rur8aOIYQA
+OQonITH1uM/k7GnU47JLvVLZ04ACxN0oMAVkQsQCRHmoAQutfCa4FQFGwmVM/YBz
+xaUlQBDBloUhJ67aehuGc7akHqml5vmw/hFCx7kUOlQ+tloSZ7GK+93f3iyrpaU8
+nGyolsMfMLLyZ6OKjKraXRdXUTdJGsVVZ8Uh/5Ubo+2eebAWJaYS5QgI/BC5lfOY
+umtJEBJGazd/HzPEgDEeIiWpzynD1gLxFXBqFSAZAFM+IsAIQ4QzhiGk9O8giRtR
+JnpyV1FPVWSDifGG9++7t7HQUCw0N52Xv6NC8aJL/3pd01suLOz4fWrtscXx4PLV
+8anrnn1ufusH6qFrWz6pvb/jvbYb6aqmxRWrn+k+ibZP/jR6X9vpsZO/7bti2z3v
+zvzY8eL2roXC2XeOHPhhArI3bhudP3oBjH0Lj6HxSlOz6l1zB6y8umX3VQfH1595
+au7JbV/O7VnBbu0+Ujm68fDM2wsvDb2KNwx0fX2o9asTL6eDh83x15b3797yli8n
+J1rvbPm18cD62z97/dH6suIemGs8nTzfsrU8Vb+yO5vYhRe+77p58fimZR91ok/L
+T0y2jsALNzw9xdv0K8vf3HvL7PT1Dxc6a49/8V153cZT3/BHyoeKa9b9fOzMzIer
+JkYv2Tl208qD0+HekbtmS82T87N/AAc7g6g=
+=9+pZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevencrader
+
+==================================================================
