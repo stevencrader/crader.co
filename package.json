@@ -1,0 +1,16 @@
+{
+  "name": "crader.co",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+  },
+  "scripts": {
+    "emulate-crader": "firebase emulators:start --only hosting:crader",
+    "emulate-steven": " firebase emulators:start --only hosting:steven",
+    "emulate-charlotte": "firebase emulators:start --only hosting:charlotte",
+    "deploy all": "firebase deploy --only hosting",
+    "deploy-crader": "firebase deploy --only hosting:crader",
+    "deploy-steven": "firebase deploy --only hosting:steven",
+    "deploy-charlotte": "firebase deploy --only hosting:charlotte"
+  }
+}
